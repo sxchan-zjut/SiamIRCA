@@ -1,7 +1,7 @@
 # SiamIRCA
 
 This project hosts the code for implementing the SiamIRCA algorithm for visual tracking, as presented in our paper: 
-## Siamese Implicit Region Proposal Network With Compound Attention for Visual Tracking [here](https://ieeexplore.ieee.org/document/9709213)
+## Siamese Implicit Region Proposal Network With Compound Attention for Visual Tracking [download](https://ieeexplore.ieee.org/document/9709213)
 
 
 ## Installation
