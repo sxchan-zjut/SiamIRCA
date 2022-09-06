@@ -1,6 +1,6 @@
 # SiamIRCA
 
-This project hosts the code for implementing the SiamIRCA algorithm for visual tracking, as presented in our paper:
+This project hosts the code for implementing the SiamIRCA algorithm for visual tracking, as presented in our paper: https://ieeexplore.ieee.org/document/9709213
 
 
 ## Installation
